@@ -6,9 +6,9 @@
 
 * The program creates two arrays. 
 
-* Fills them randomly.
+* Fill them randomly.
 
-* Delete data from the fist array.
+* Delete data from the first array.
 
 * Create a new array.
 
